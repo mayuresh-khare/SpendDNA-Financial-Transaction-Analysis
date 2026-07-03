@@ -1,2 +1,2 @@
 # SpendDNA-Financial-Transaction-Analysis
-A Python and Pandas based Bank Statement Analytics project that extracts vendors, categorizes transactions, analyzes spending patterns, detects anomalies, and generates financial insights.
+Python & Pandas project that analyzes bank transaction statements by extracting vendors, categorizing expenses, identifying spending trends, detecting anomalies, and generating financial insights.
